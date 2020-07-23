@@ -5,7 +5,7 @@ IJCAI2020-Decorrelated Clustering with Data Selection Bias
 Shaohua Fan, Email:fanshaohua92@163.com
 
 
-#main file
+# main file
 run_main.m
 
 
